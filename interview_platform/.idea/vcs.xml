@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <mapping directory="" vcs="Git" />
+=======
+=======
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+>>>>>>> 32cc9d7 (next app)
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+>>>>>>> 09acd65 (setup app, file and folder structure, routing and auth pages)
+  </component>
+</project>
